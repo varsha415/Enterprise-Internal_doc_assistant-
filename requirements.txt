@@ -1,0 +1,6 @@
+chromadb
+typer
+rich
+pydantic
+pydantic-settings
+openai
